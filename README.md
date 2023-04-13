@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RemyDG0
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning C, C#
 - 💞️ I’m looking to collaborate on nothing, i think
 - 📫 How to reach me www.remydg.ch
